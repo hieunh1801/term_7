@@ -1,0 +1,9 @@
+-text
+text
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.pdf
+*.pptx filter=lfs diff=lfs merge=lfs -text
+*.rar filter=lfs diff=lfs merge=lfs -text
+*.doc
+*.docx
+*.zip filter=lfs diff=lfs merge=lfs -text
